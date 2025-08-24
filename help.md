@@ -6,3 +6,8 @@ find .git
 git commit - store the information
 
 git status
+
+git add all
+
+
+vercel deploy
