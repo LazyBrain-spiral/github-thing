@@ -4,3 +4,5 @@ git init - version
 find .git
 
 git commit - store the information
+
+git status
